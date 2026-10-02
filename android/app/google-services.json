@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898582489266",
+    "project_id": "bisente-advmobprog-firebase",
+    "storage_bucket": "bisente-advmobprog-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898582489266:android:a786825e047c78aec941ab",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKPQv3wbuSqQcqNfXnbclMHtf8MFv19oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
